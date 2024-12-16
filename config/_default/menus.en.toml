@@ -1,0 +1,16 @@
+# main menu
+# [[main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+# footer menu
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 1
+
+[[footer]]
+name = "Terms and conditions"
+url = "/privacy-policy"
+weight = 2
