@@ -35,7 +35,7 @@ features:
       link: "mailto:feedback@doculogy.io"
 
   - title: "Why Doculogy is Right for You"
-    image: "/images/service-2.png"
+    image: "/images/service-3.png"
     bulletpoints:
       - "**Save Time:** No more spending hours reading and searching. Get what you need instantly."
       - "**Make Better Decisions:** Get precise insights from complex documents so you can act with confidence."
@@ -45,7 +45,7 @@ features:
       enable: false
 
   - title: "Built for Your Needs"
-    image: "/images/service-2.png"
+    image: "/images/service-4.png"
     bulletpoints:
       - "**For Legal Professionals:** Quickly summarize contracts or extract specific clauses without reading every page."
       - "**For Academics and Students:** Generate notes from textbooks, research papers, or lecture materials to enhance your learning."
