@@ -8,26 +8,62 @@ description: "This is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Welcome to Doculogy ("we," "our," "us"). Your privacy is important to us, and we are committed to protecting the information you share with us. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our website and services (the "Service").
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+By accessing or using our Service, you agree to the terms outlined in this Privacy Policy. If you do not agree, please do not use our Service.
 
-#### Gathering of Personal Information
+### Information We Collect
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### Personal Information:
 
-#### Protection of Personal- Information
+When you sign up for the waitlist, survey, or Service, we may collect personal information such as your name, email address, and professional role.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Document Data:
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+If you upload documents to the Service, we process the content of those documents solely to provide the Service (e.g., summarization and query analysis). We do not share or sell your document data.
 
-#### Privacy Policy Changes
+#### Usage Data:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+We collect information about your interactions with the Service, such as IP address, browser type, operating system, and the pages you visit.
+
+#### Cookies:
+
+We use cookies to enhance user experience and gather analytics about website usage. You can disable cookies in your browser settings, though some features may not function properly.
+
+### How We Use Your Information
+
+- To provide, improve, and personalize the Service.
+- To respond to inquiries and provide customer support.
+- To send updates about the Service, including launch notifications and promotional materials (you can opt out of these communications).
+- To analyze usage and improve our website and offerings.
+
+### How We Share Your Information
+
+We do not sell or share your personal or document data with third parties except in the following situations:
+
+- With service providers who assist in operating the Service (e.g., hosting, analytics) and who agree to keep your information secure.
+- To comply with legal obligations or protect the rights, property, or safety of Doculogy or others.
+
+### Data Security
+
+We implement reasonable administrative, technical, and physical safeguards to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
+
+### Your Choices and Rights
+
+- Access and Update: You can access and update your personal information by contacting us at [email].
+- Opt-Out: You can unsubscribe from our emails by following the instructions in the email.
+- Delete Your Data: You can request the deletion of your data by contacting us at [email].
+
+### Children’s Privacy
+
+The Service is not directed at children under 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such information, we will delete it.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. The latest version will always be available on our website, and we encourage you to review it periodically.
+
+### Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact us at feedback@doculogy.io.

@@ -12,5 +12,5 @@ weight = 1
 
 [[footer]]
 name = "Terms and conditions"
-url = "/privacy-policy"
+url = "/terms"
 weight = 2

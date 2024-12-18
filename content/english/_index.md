@@ -2,36 +2,58 @@
 # Banner
 banner:
   title: "Unleash the Power of Your Documents with AI."
-  content: "Summarize, query, and extract insights from your documents in seconds. Doculogy turns information into action."
+  content: "Launching Q1 2025. From summarizing contracts to generating study notes, Doculogy transforms how you interact with text. Upload your documents, ask questions, and get answers instantly."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://portal.doculogy.io"
+    label: "Join the Waitlist"
+    link: "https://tally.so/r/3jGEMY"
 
 # Features
 features:
-  - title: "Revolutionize How You Work with Documents"
+  - title: "How Doculogy Works for You"
     image: "/images/service-1.png"
-    content: "Skip the hassle of reading lengthy documents. Doculogy creates concise, human-readable summaries tailored to your needs. Ask natural language questions about your documents. Doculogy provides accurate answers in real time, so you don't have to search manually."
+    content: |
+      Whether you’re analyzing contracts, CVs, or research papers, Doculogy adapts to your needs.
+      Forget keyword searches. Ask full questions and get precise answers from your documents.
     bulletpoints:
-      - "AI-Powered Document Summarization"
-      - "Smart Document Querying"
-      - "Save Hours Every Day"
-      - "Data Security You Can Trust"
+      - Ask Questions with Natural Language
+      - Summarize Documents in Seconds
+      - Analyze Multiple Documents Together
+      - Flexible for Any Profession
+      - Secure and Private
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
 
-  - title: "Doculogy Simplifies Your Workflow"
+  - title: "Join the Revolution in Document Analysis"
     image: "/images/service-2.png"
-    bulletpoints:
-      - "**Upload Documents:** Drag and drop your files or upload them to your workspace. Doculogy supports PDFs, Word documents, and text files."
-      - "**Ask Questions or Query the Data:** Pose natural language questions or query for specific details—Doculogy will find the answers for you."
-      - "**Receive Summaries and Insights:** Instantly get summaries or precise answers without combing through pages of text."
+    content: |
+      Sign up for early access, leave feedback, or help shape the future of Doculogy.
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://portal.doculogy.io"
+      label: "Contact us"
+      link: "mailto:feedback@doculogy.io"
+
+  - title: "Why Doculogy is Right for You"
+    image: "/images/service-2.png"
+    bulletpoints:
+      - "**Save Time:** No more spending hours reading and searching. Get what you need instantly."
+      - "**Make Better Decisions:** Get precise insights from complex documents so you can act with confidence."
+      - "**Flexibility Across Use Cases:** From legal, academic, and financial documents to personal projects, Doculogy works for everyone."
+      - "**Collaborate with Ease:** Organize your files into shared contexts and work smarter with your team."
+    button:
+      enable: false
+
+  - title: "Built for Your Needs"
+    image: "/images/service-2.png"
+    bulletpoints:
+      - "**For Legal Professionals:** Quickly summarize contracts or extract specific clauses without reading every page."
+      - "**For Academics and Students:** Generate notes from textbooks, research papers, or lecture materials to enhance your learning."
+      - "**For HR Professionals and Job Seekers:** Analyze CVs and get actionable feedback to make improvements in minutes."
+      - "**For Financial Analysts:** Ask detailed questions about financial reports and balance sheets to find key metrics fast."
+      - "**For Content Creators:** Summarize large articles or books and extract key insights for your next big idea."
+    button:
+      enable: true
+      label: "Join the Waitlist"
+      link: "https://tally.so/r/3jGEMY"
 ---

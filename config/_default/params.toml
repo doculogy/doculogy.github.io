@@ -38,8 +38,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "sign up"
-link = "https://portal.doculogy.io"
+label = "join waitlist"
+link = "https://tally.so/r/3jGEMY"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
