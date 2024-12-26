@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Join the Waitlist"
-    link: "https://tally.so/r/3jGEMY"
+    label: "Sign Up"
+    link: "https://portal.doculogy.io"
 
 # Features
 features:
@@ -28,7 +28,7 @@ features:
   - title: "Join the Revolution in Document Analysis"
     image: "/images/service-2.png"
     content: |
-      Sign up for early access, leave feedback, or help shape the future of Doculogy.
+      Sign up for early access, leave feedback, and help shape the future of Doculogy.
     button:
       enable: true
       label: "Contact us"
@@ -54,6 +54,6 @@ features:
       - "**For Content Creators:** Summarize large articles or books and extract key insights for your next big idea."
     button:
       enable: true
-      label: "Join the Waitlist"
-      link: "https://tally.so/r/3jGEMY"
+      label: "Sign Up"
+      link: "https://portal.doculogy.io"
 ---
